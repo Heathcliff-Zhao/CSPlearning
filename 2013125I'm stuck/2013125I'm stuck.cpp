@@ -85,7 +85,8 @@ int main()
             }
         cout << count << endl;
     }
-    else
+    else {
         cout << "I'm stuck!" << endl;
+    }
     return 0;
 }
